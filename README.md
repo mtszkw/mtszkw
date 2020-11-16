@@ -1,9 +1,10 @@
 * Tech, data science & machine learning.  
 * Solving trivial problems with complex code.
 
-### Get in touch
+### 📫 Get in touch
 
 * Twitter: [mtszkw](https://twitter.com/mtszkw)
+* LinkedIn: [mateusz-kwasniak](https://www.linkedin.com/in/mateusz-kwasniak/)
 * E-mail: mateusz.kwasniak@pm.me
 
 ___
