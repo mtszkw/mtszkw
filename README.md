@@ -1,6 +1,6 @@
 <a href="https://twitter.com/mtszkw"><img alt="Twitter" src="https://img.shields.io/badge/mtszkw-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mateusz-kwasniak/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://mtszkw.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 
-### 🙎‍♂️ Bio
+<!-- ### 🙎‍♂️ Bio
 
 Software Engineer - Machine Learning, MLOps and Infrastructure
 
@@ -17,3 +17,4 @@ Software Engineer - Machine Learning, MLOps and Infrastructure
 
 * [**Track and organize your ML projects**](https://mtszkw.medium.com/track-and-organize-your-ml-projects-e44e6c7c3f9d)  
   Organizing work with Neptune.ai tool for experiment tracking and visualizations
+ -->
